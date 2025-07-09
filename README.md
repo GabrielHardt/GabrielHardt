@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Sou Gabriel Hardt, um estudante de 20 anos de Engenharia de Software na Univille, em Joinville. Com grande entusiasmo pelo desenvolvimento, estou buscando minha primeira oportunidade para aplicar e expandir meus conhecimentos como desenvolvedor de software.
+Me chamo Gabriel Hardt, um estudante de 20 anos de Engenharia de Software na Univille, em Joinville. Com grande entusiasmo pelo desenvolvimento, estou buscando minha primeira oportunidade para aplicar e expandir meus conhecimentos como desenvolvedor de software.
 
 ---
 
