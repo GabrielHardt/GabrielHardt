@@ -64,4 +64,4 @@ Sou Gabriel Hardt, um estudante de 20 anos de Engenharia de Software na Univille
 
 ---
 
-Conecte-se comigo no LinkedIn: [Gabriel Hardt](www.linkedin.com/in/gabrielhardt1)
+Conecte-se comigo no LinkedIn: [Gabriel Hardt]([www.linkedin.com/in/gabrielhardt1](https://www.linkedin.com/in/gabriel-hardt-889606276/)
